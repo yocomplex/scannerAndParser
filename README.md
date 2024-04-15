@@ -3,15 +3,16 @@ The purpose of this school project is for me to become familiar with scanners an
 ****Background****
 WHAT THE QUACK! is a programming language devised by the nefarious and villainous Dr. LeQuack with the sinister intention of manipulating and dominating our minds. 
 In short, this is an esoteric programming language for when you are wanting to code with ducks. Here is an example:
-
-. o O                ( this is a program that subtracts 1 from 3 )
-=@                   ( the output is stored in the pond, but it )
- ###                 ( could be displayed to the console if needed )
+(This is a program that subtracts 1 from 3. The output is stored in the pond, but it could be displayed to the console if needed
+```
+. o O
+=@      
+ ###               
   @< ./././ ./ - 10
 ###
 LeQuack >@
          ###
-
+```
 ****Test files****
 I have provided 5 test files to see how each test case work for the scanner and parser. Feel free to check it out!
 
